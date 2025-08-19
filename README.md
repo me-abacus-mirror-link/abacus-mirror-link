@@ -84,4 +84,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  13 August 2025 Link is now clickable
+
+
+Update:  Tuesday 19 August 2025 link is back online and clickable
