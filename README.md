@@ -90,4 +90,6 @@ Always prioritize security when interacting with darknet platforms. Use verified
 
 
 
-Update:  12 September
+
+
+Update:  Thursday 18 September 2025 url is back online and live
